@@ -1,7 +1,9 @@
-site_name: ![FluxoScript Logo](./img/logo_fluxo.jfif){: style="height:150px;width:150px"} Votre Site de Documentation
+site_name: Votre Site de Documentation
 nav:
   - Accueil: index.md
   - Page de Test: test.md
-
+theme:
+    name: material
+    custom_dir: overrides
 markdown_extensions:
   - attr_list
