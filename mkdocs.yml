@@ -1,0 +1,4 @@
+site_name: Votre Site de Documentation
+nav:
+  - Accueil: index.md
+  - Page de Test: test.md
