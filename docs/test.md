@@ -1,6 +1,6 @@
 # FluxoScript : Un Langage pour la cybersécurité
 
-
+![FluxoScript Logo](./img/logo_fluxo.jfif){: style="height:150px;width:150px"}
 
 FluxoScript est un langage de programmation conçu spécifiquement pour répondre aux besoins de la cybersécurité. Il offre un ensemble de fonctionnalités puissantes et flexibles pour aider les professionnels de la sécurité à automatiser, analyser et réagir aux menaces en ligne de manière efficace. Voici un aperçu de FluxoScript et de ses fonctionnalités clés.
 
