@@ -26,7 +26,6 @@ FluxoScript facilite l'analyse des données de sécurité. Vous pouvez extraire,
 
 Voici un exemple simple de script FluxoScript pour vous donner une idée de son utilisation :
 
-```fluxoscript
 # Script de détection d'intrusion
 when network_traffic {
   if source_ip == "192.168.1.1" and destination_port == 22 {
