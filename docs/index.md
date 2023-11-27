@@ -26,13 +26,13 @@ FluxoScript facilite l'analyse des données de sécurité. Vous pouvez extraire,
 
 ## Exemple de Script FluxoScript
 
-Voici un exemple simple de script FluxoScript pour vous donner une idée de son utilisation :
-when network_traffic {
-  if source_ip == "192.168.1.1" and destination_port == 22 {
-    log "Tentative de connexion SSH depuis une source suspecte : {source_ip}"
-    block source_ip
+Voici un exemple simple de script FluxoScript pour vous donner une idée de son utilisation:
+  when network_traffic {
+    if source_ip == "192.168.1.1" and destination_port == 22 {
+      log "Tentative de connexion SSH depuis une source suspecte : {source_ip}"
+      block source_ip
+    }
   }
-}
 
 Ce script surveille le trafic réseau et bloque les adresses IP suspectes qui tentent de se connecter au port 22. Vous pouvez l'adapter à votre environnement en modifiant les adresses IP et les numéros de port.
 
