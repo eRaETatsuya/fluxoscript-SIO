@@ -27,11 +27,25 @@ FluxoScript facilite l'analyse des données de sécurité. Vous pouvez extraire,
 ## Exemple de Script FluxoScript
 
 Voici un exemple simple de script FluxoScript pour vous donner une idée de son utilisation :
-
-# Script de détection d'intrusion
 when network_traffic {
   if source_ip == "192.168.1.1" and destination_port == 22 {
     log "Tentative de connexion SSH depuis une source suspecte : {source_ip}"
     block source_ip
   }
 }
+
+Ce script surveille le trafic réseau et bloque les adresses IP suspectes qui tentent de se connecter au port 22. Vous pouvez l'adapter à votre environnement en modifiant les adresses IP et les numéros de port.
+
+## Exemple d'Application FluxoScript
+
+FluxoScript peut être utilisé pour une grande variété d'applications de sécurité, y compris :
+
+* Surveillance de l'intégrité du système
+* Détection d'intrusion
+* Gestion des vulnérabilités
+* Analyse des journaux
+* Gestion des incidents
+* Automatisation des tâches de sécurité
+* Et beaucoup plus !
+
+

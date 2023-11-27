@@ -1,6 +1,7 @@
-site_name: Votre Site de Documentation
+site_name: Formation Fluxoscript
 nav:
   - Accueil: index.md
+  - Comparaison : comparaison.md 
 theme:
     name: material
     custom_dir: overrides
