@@ -55,3 +55,6 @@ Bienvenue sur la page de sélection d'offres pour notre formation FLuxoscript. C
 Faites le choix qui correspond à vos objectifs d'apprentissage et commencez votre voyage dès aujourd'hui!
 
 [Retour à la Page d'Accueil](index.md)
+
+Présentation en vidéo
+https://www.youtube.com/watch?v=4zaKCycbH-U
