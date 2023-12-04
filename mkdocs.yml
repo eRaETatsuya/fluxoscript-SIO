@@ -2,6 +2,7 @@ site_name: Formation Fluxoscript
 nav:
   - Accueil: index.md
   - Comparaison : comparaison.md 
+  - Formation : formation.md
 theme:
     name: material
     custom_dir: overrides
