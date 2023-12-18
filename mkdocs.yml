@@ -3,6 +3,7 @@ nav:
   - Accueil: index.md
   - Comparaison : comparaison.md 
   - Formation : formation.md
+  - Inscription : inscription.md
 theme:
     name: material
     custom_dir: overrides

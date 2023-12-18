@@ -4,43 +4,43 @@ Bienvenue sur la page de sélection d'offres pour notre formation FLuxoscript. C
 
 ## Offre de Base
 
-### [Nom de l'Offre]
+### [Formation Fluxoscript]
 
 - **Contenu de la Formation :** Cours en ligne, vidéos didactiques, quiz pratiques.
-- **Durée :** [Nombre de semaines/mois]
+- **Durée :**1.5 semaines
 - **Support :** Accès au forum de discussion de la communauté.
 
-**Tarif :** [Prix]
+**Tarif :** 50€ par mois
 
-[![Inscrivez-vous](inscription.md)](inscription.md)
+[Inscrivez-vous](inscription.md)
 
 ---
 
 ## Offre Premium
 
-### [Nom de l'Offre Premium]
+### [Formation Avancée]
 
 - **Contenu de la Formation :** Cours avancés, sessions de mentorat individuelles, projets pratiques.
-- **Durée :** [Nombre de semaines/mois]
+- **Durée :** 2 semaines
 - **Support :** Accès prioritaire au support client, webinaires exclusifs.
 
-**Tarif :** [Prix]
+**Tarif :** 150€ par mois
 
-[![Inscrivez-vous](inscription.md)](inscription.md)
+[Inscrivez-vous](inscription.md)
 
 ---
 
 ## Offre VIP
 
-### [Nom de l'Offre VIP]
+### [Formation VIP au Fluxoscipt]
 
 - **Contenu de la Formation :** Accès illimité à tous les cours, sessions de mentorat personnalisées, projets de groupe avancés.
-- **Durée :** [Nombre de semaines/mois]
+- **Durée :** 1 mois
 - **Support :** Assistance téléphonique dédiée, accès à un groupe privé VIP.
 
-**Tarif :** [Prix]
+**Tarif :** 300€ par mois
 
-[![Inscrivez-vous](inscription.md)](inscription.md)
+[Inscrivez-vous](inscription.md)
 
 ---
 
@@ -55,6 +55,3 @@ Bienvenue sur la page de sélection d'offres pour notre formation FLuxoscript. C
 Faites le choix qui correspond à vos objectifs d'apprentissage et commencez votre voyage dès aujourd'hui!
 
 [Retour à la Page d'Accueil](index.md)
-
-Présentation en vidéo
-https://www.youtube.com/watch?v=4zaKCycbH-U
