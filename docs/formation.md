@@ -4,7 +4,7 @@ Bienvenue sur la page de sélection d'offres pour notre formation FLuxoscript. C
 
 ## Offre de Base
 
-### [Formation Fluxoscript]
+### Formation Fluxoscript
 
 - **Contenu de la Formation :** Cours en ligne, vidéos didactiques, quiz pratiques.
 - **Durée :**1.5 semaines
@@ -18,7 +18,7 @@ Bienvenue sur la page de sélection d'offres pour notre formation FLuxoscript. C
 
 ## Offre Premium
 
-### [Formation Avancée]
+### Formation Avancée
 
 - **Contenu de la Formation :** Cours avancés, sessions de mentorat individuelles, projets pratiques.
 - **Durée :** 2 semaines
@@ -32,7 +32,7 @@ Bienvenue sur la page de sélection d'offres pour notre formation FLuxoscript. C
 
 ## Offre VIP
 
-### [Formation VIP au Fluxoscipt]
+### Formation VIP au Fluxoscipt
 
 - **Contenu de la Formation :** Accès illimité à tous les cours, sessions de mentorat personnalisées, projets de groupe avancés.
 - **Durée :** 1 mois
